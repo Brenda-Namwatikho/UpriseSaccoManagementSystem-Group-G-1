@@ -18,7 +18,7 @@
         </div>
         <div class="card">
             <div class="card-header">
-                <h3 class="card-title">Active Loans</h3>
+                <h3 class="card-title"> Active Loans </h3>
             </div>
             <div class="card-body">
                 <table class="table table-bordered" id="loan-list">
