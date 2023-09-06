@@ -21,7 +21,7 @@
 								<input type="number" name="months" id="" class="form-control text-right">
 							</div>
 							<div class="form-group">
-								<label class="control-label">Interest</label>
+								<label class="control-label">Interest rates</label>
 								<div class="input-group">
 								  <input type="number" step="any" min="0" max="100" class="form-control text-right" name="interest_percentage" aria-label="Interest">
 								  <div class="input-group-append">
